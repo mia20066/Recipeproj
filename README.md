@@ -15,6 +15,6 @@
 - Navigation Bar
 - Beautiful UI Design Kit
 - Compatible with Expo
-- Highly modularized codebase
+- Highly modularized codebase.
 
 
