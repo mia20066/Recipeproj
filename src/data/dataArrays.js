@@ -435,6 +435,78 @@ export const recipes = [
       + '6-Transfer the baba ganoush to a serving bowl and lightly drizzle olive oil on top. Lastly, sprinkle parsley and smoked paprika on top. Serve with accompaniments of your choice. Its also great on sandwiches!\n'
 
   },
+  {
+    recipeId: 93,
+    categoryId: 4,
+    title: 'Batata Harra',
+    photo_url: 'https://www.bitesofberi.com/wp-content/uploads/2021/04/batata-harra-spicy-potatoes-1.jpg',
+    photosArray: [
+      'https://www.krumpli.co.uk/wp-content/uploads/2022/08/Batata-Harra-Lebanese-Spicy-Potatoes-03-720x720.jpg',
+      'https://nine63.com/storage/2020/06/Batata-Harra-scaled.jpg'
+    ],
+    time: '55',
+    ingredients: [[30, '2 lb'], [56, '1/2 teaspoon'], [62, '3 tablespoon'], [63, '1 teaspoon crushed'], [45, '5 cloves minced'], [64, '1 1/2 teaspoon'], [65, '1/2 cup chopped'], [8, '3 tablespoon']],
+    description:
+      '1-PARBOIL: Heat a large pot of water until boiling. Add a generous tablespoon of kosher salt along with the baking soda and potatoes; stir to combine. Position a rack in the center of the oven. Preheat the oven to 425ºF.\n'
+      +'2-POTATOES: Allow the potatoes to come back to a boil and cook about halfway through, about 8-10 minutes. Test using a paring knife, it should go through with some resistance. Drain the potatoes, place them back in the same pot. Add 1 tablespoon of ghee and a big pinch of salt and toss to combine. Set aside.\n'
+      +'3-ROAST: When the oven is preheated, line with parchment if desired, I usually skip it. Spray sheet pan with cooking spray and quickly spread potatoes out in a single layer. Bake for 20 minutes. Then toss and continue baking for another 8 minutes or until the potatoes are golden.\n'
+      
+      +'4-LEMON CILANTRO SAUCE: Once you toss the potatoes, heat a skillet over medium-low heat. Add 2 tablespoons of ghee. When hot, add the coriander seeds, minced garlic, and red pepper flakes. Continue to cook for 30-45 seconds or until the garlic is fragrant. Add cilantro, add 2 tbsps juice, and the lemon zest to the pan. Stir to combine; remove from heat. Add the remaining lemon juice and stir together.\n'
+      +'5-TOSS AND SERVE: When the potatoes are done, toss them in the lemon and cilantro sauce, return to the baking sheet. Bake for another 5 minutes then sprinkle with remaining cilantro and serve warm with roasted chicken or whatever else you like!\n'
+      
+  },
+  {
+    recipeId: 81,
+    categoryId: 5,
+    title: 'Lentil',
+    photo_url: 'https://www.mamaslebanesekitchen.com/wp-content/uploads/2022/02/lentil-soup-sq-1-1.jpg',
+    photosArray: [
+      'https://www.lovemysalad.com/sites/default/files/styles/recipe_schema_image/public/lebanese_lentil_soup.jpg?itok=QE7wSuwX',
+      'https://www.bluezones.com/wp-content/uploads/2020/01/lentil-soup-swiss-chard.jpg'
+    ],
+    time: '40',
+    ingredients: [[38, '1 tablespoon'], [33, '1 diced'], [66, '2 diced'], [67, '2 diced'], [45, '2 cloves crushed'], [68, '1 1/2 cups'], [35,'1/2 cup'],[69, '8 cups'], [8, '1 tablespoon'],[70,'1 teaspoon'],[60,'1 1/2 teaspoon'],[31,'1 handful']],
+    description:
+      '1-In a large pot heat olive oil on med-high heat. Add onion, garlic and spices, sweat until the onions have softened.\n'
+      
+      +'2-Add lentils, stir until coated in olive oil.\n'
+      
+      +'3-Add vegetable stock and rice. Cover and cook on medium heat for 15 minutes.\n'
+      
+      +'4-Add celery and carrot and simmer for another 10 minutes with the lid on.\n'
+      
+      +'5-Turn heat off and stir through half of the chopped parsley and the lemon juice. Blend with an immersion (handheld) blender until soup is part smooth, part chunky.\n'
+     
+      +'6-Garnish with additional parsley and serve with a wedge of lemon, which is then squeezed into the soup to suit your liking.\n'
+      
+  },
+  {
+    recipeId: 65,
+    categoryId: 5,
+    title: 'Chicken Soup',
+    photo_url: 'https://feelgoodfoodie.net/wp-content/uploads/2018/10/Chicken-Noodle-Soup-11-500x500.jpg',
+    photosArray: [
+      'https://thesaltandsweet.com/wp-content/uploads/2022/11/wp-1668696703398-720x720.jpg',
+      'https://www.maureenabood.com/wp-content/uploads/2012/10/Chicken-soup-POST.jpg',
+      
+    ],
+    time: '1 hr 5',
+    ingredients: [[71, '2'], [72, '4'], [6, '6 cup'], [66,'3 sliced'], [39,'1 cutted'], [32,'2 diced'],[33,'1 sliced'],[30,'1 cutted'],[31,'1 cup chopped'],[24,'1 teaspoon'],[9,'1 stick'],[73,'2'],[35,'2 tablespoon'],[38,'1 tablespoon']],
+    description:
+    '1-In a large pot, place chicken thighs and legs and cover with water (about 8 cups)\n'
+    +'2-Place over high heat and bring to a boil. Skim off foam.\n'
+    +'3-Reduce heat to medium low, add a cinnamon stick and bay leaves and Simmer covered until chicken is tender. Mine took about 30 minutes. You want it to be fork-tender and fully cooked.\n'
+    +'4-Remove the chicken from the broth and allow it to cool.\n'
+    +'5-Add carrots and potatoes, cook for 15 minutes over medium heat.\n'
+    +'6-Add rice, onion, diced tomatoes and zucchini, cook for another 10 minutes or until vegetables are cooked.\n'
+    +'7-While the veggies and rice are cooking, remove the meat from the bones. You should have about 4 cups of meat. Discard the bones and skin. Shred the chicken into bite size pieces.\n'
+    +'8-After the rice and veggies are cooked, stir in fresh chopped parsley, shredded chicken and a drizzle of olive oil. \n'
+    +'9-Taste and adjust salt, if necessary.\n'
+    +'10-Serve with a piece of toasted bread and enjoy'
+      
+  },
+
+
 
 ];
 
@@ -795,4 +867,77 @@ export const ingredients = [
     photo_url:
       'https://www.mashed.com/img/gallery/what-is-smoked-paprika-and-why-should-you-use-it/l-intro-1618517788.jpg',
   },
+  {
+    ingredientId: 62,
+    name: 'ghee',
+    photo_url:
+      'https://m.media-amazon.com/images/I/41diIEPUlnL.jpg',
+  },
+  {
+  ingredientId: 63,
+  name: 'coriander seed',
+  photo_url:
+    'https://www.spiceandlife.com/wp-content/uploads/2022/06/Coriander-Seeds.jpg',
+},
+{
+  ingredientId: 64,
+  name: 'pepper flakes',
+  photo_url:
+    'https://assets.bonappetit.com/photos/5fd7e38be7eb5e520484522d/4:3/w_2680,h_2010,c_limit/Basically-ChileFlakes.jpg',
+},
+{
+  ingredientId: 65,
+  name: 'cilantro',
+  photo_url:
+    'https://cdn.shopify.com/s/files/1/0271/6634/3237/products/cilantro.jpg?v=1626104591',
+},
+{
+  ingredientId: 66,
+  name: 'carrots',
+  photo_url:
+    'https://www.jessicagavin.com/wp-content/uploads/2019/02/carrots-7-1200.jpg',
+},
+{
+  ingredientId: 67,
+  name: 'celery',
+  photo_url:
+    'https://cdn.britannica.com/68/143768-050-108B71EC/Celery.jpg',
+},
+{
+  ingredientId: 68,
+  name: 'Red lentils',
+  photo_url:
+    'https://www.nutsinbulk.ie/files/items/wholefoods/organic_lentils_red_whole.jpg',
+},
+{
+  ingredientId: 69,
+  name: 'vegetable stock',
+  photo_url:
+    'https://www.alphafoodie.com/wp-content/uploads/2020/01/Vegetable-Stock-11-of-12-684x1024.jpeg',
+},
+{
+  ingredientId: 70,
+  name: 'turmeric',
+  photo_url:
+    'https://cdn-prod.medicalnewstoday.com/content/images/articles/318/318405/turmeric-root-and-powder.jpg',
+},
+{
+  ingredientId: 71,
+  name: 'chicken thighs' ,
+  photo_url:
+    'https://thumbs.dreamstime.com/b/raw-chicken-thigh-ready-to-cook-white-background-raw-chicken-thigh-white-background-175308308.jpg'
+},
+{
+  ingredientId: 72,
+  name:'chicken legs' ,
+  photo_url:
+    'https://i0.wp.com/williamcofoods.com/wp-content/uploads/2020/07/chicken-legs.jpg?fit=3180%2C2163&ssl=1'
+},
+{
+  ingredientId: 73,
+  name:'bay leaves' ,
+  photo_url:
+    'https://images.healthshots.com/healthshots/en/uploads/2021/06/25172258/health-benefits-of-bay-leaf.jpg'
+},
+
 ];
